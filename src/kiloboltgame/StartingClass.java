@@ -97,6 +97,7 @@ public class StartingClass extends Applet implements Runnable, KeyListener{
 
        case KeyEvent.VK_SPACE:
            System.out.println("Stop jumping");
+           
            break;
 
        }
